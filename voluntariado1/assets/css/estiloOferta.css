@@ -1,0 +1,43 @@
+
+.producto {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+}
+
+.producto img {
+    max-width: 100%;
+    height: auto;
+}
+
+.precio-original {
+    color: red;
+}
+
+.precio-descuento {
+    color: rgb(0, 113, 128);
+    font-weight: bold;
+}
+
+.descuento {
+    font-size: 0.9em;
+    color: gray;
+}
+
+.cta {
+    background-color: rgb(255, 0, 0);
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+#productos-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.producto {
+    flex: 0 0 23%; /* Para que haya 4 productos por fila */
+    margin-bottom: 20px;
+}

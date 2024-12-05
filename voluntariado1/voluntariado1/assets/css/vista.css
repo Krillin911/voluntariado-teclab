@@ -1,0 +1,52 @@
+
+    .img-fluid {
+        max-width: 100%;
+        height: auto;
+    }
+    .image-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        max-width: 100%;
+        overflow: hidden;
+        border: 1px solid #ddd; /* Borde opcional */
+        border-radius: 8px; /* Bordes redondeados */
+        padding: 10px; /* Espaciado interno */
+        background-color: #f8f8f8; /* Fondo opcional */
+    }
+    .image-container {
+        max-width: 800px; /* Ajusta el tamaño de la imagen */
+        flex-shrink: 0; /* Evita que la imagen se encoja */
+    }
+    
+    .details {
+        flex-grow: 1; /* Permite que el contenedor de detalles ocupe el espacio restante */
+    }
+
+    .pulgares-container {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        pointer-events: none;
+    }
+    .whatsapp-button {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .whatsapp-button img {
+        width: 24px; /* Tamaño del icono */
+        margin-right: 8px; /* Espacio entre el icono y el texto */
+    }
+  
+    .pulgares-container {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        pointer-events: none;
+    }
+

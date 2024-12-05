@@ -1,0 +1,59 @@
+[
+
+    {
+        "id": 5,
+        "imagenes": [
+            "./assets/img/short-de-argentina-adidas-oficial-negro-20112317-100020ip8405001-1.jpg",
+            "./assets/img/short-de-argentina-adidas-oficial-negro-20112317-100020ip8405001-2.jpg",
+            "./assets/img/short-de-argentina-adidas-oficial-negro-20112317-100020ip8405001-3.jpg"
+        ],
+        "nombre": "Short De Argentina Adidas Oficial Negro",
+        "precio": 73.999,
+        "marca": "adidas",
+        "genero": "hombre",
+        "deporte": "futbol",
+        "descripcion": "Descripción del Producto 1"
+    },
+    {
+        "id": 6,
+        "imagenes": [
+            "./assets/img/camiseta-de-river-adidas-oficial-blanca-67608930-100020ht3679001-1.jpg",
+            "./assets/img/camiseta-de-river-adidas-oficial-blanca-67608930-100020ht3679001-2.jpg",
+            "./assets/img/camiseta-de-river-adidas-oficial-ni-o-ni-a-blanca-100020hy3213001-3.jpg"
+        ],
+        "nombre": "Camiseta De River Adidas Oficial Blanca",
+        "precio": 69.499,
+        "marca": "adidas",
+        "genero": "hombre",
+        "deporte": "futbol",
+        "descripcion": "Descripción del Producto 1"
+    },
+    {
+        "id": 7,
+        "imagenes": [
+            "./assets/img/Remera-adidasmujer.jpg",
+            "./assets/img/Remera-adidas-ldo.jpg",
+            "./assets/img/Remera-adidasmujeratras.jpg"
+        ],
+        "nombre": "Camiseta Entrenamiento adidas Tiro Mujer",
+        "precio": 62.129,
+        "marca": "adidas",
+        "genero": "mujer",
+        "deporte": "entrenamiento",
+        "descripcion": "Descripción del Producto 1"
+    },
+    {
+        "id": 8,
+        "imagenes": [
+            "./assets/img/rinonerapumafrente.jpg",
+            "./assets/img/rimeranegralado.jpg",
+            "./assets/img/rinoraatras.jpg"
+        ],
+        "nombre": "Riñonera Puma Running Green Classic",
+        "precio": 34.149,
+        "marca": "puma",
+        "genero": "unisex",
+        "deporte": "accesorio",
+        "descripcion": "Descripción del Producto 1"
+    }
+]

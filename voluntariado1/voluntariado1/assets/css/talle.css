@@ -1,0 +1,29 @@
+
+body {
+    background-color: #f8f9fa;
+}
+.table {
+    border-radius: 10px;
+    overflow: hidden;
+}
+.thead-dark {
+    background-color: #343a40;
+    color: white;
+}
+.table th, .table td {
+    text-align: center;
+    vertical-align: middle;
+}
+h2 {
+    margin-bottom: 20px;
+    color: #343a40;
+}
+.description {
+    font-size: 0.9rem;
+    color: #6c757d;
+}
+.img-example {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 10px;
+}

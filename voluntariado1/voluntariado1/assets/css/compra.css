@@ -1,0 +1,30 @@
+
+body {
+    background-color: #e9ecef; /* Color de fondo resaltado */
+    font-family: Arial, sans-serif;
+}
+.container {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    margin-top: 50px;
+}
+h2 {
+    color: #737a81;
+    margin-bottom: 20px;
+}
+h3 {
+    color: #343a40;
+}
+.footer {
+    text-align: center;
+    margin-top: 30px;
+    color: #6c757d;
+}
+.thank-you {
+    font-weight: bold; /* Cambia el estilo de la letra */
+    color: #bdb7ad; /* Color verde para el mensaje de agradecimiento */
+}
+
+

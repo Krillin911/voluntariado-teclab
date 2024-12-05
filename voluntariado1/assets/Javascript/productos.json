@@ -1,0 +1,927 @@
+[
+    {
+        "id": 1,
+        "imagenes": [
+            "../assets/img/buzoadi.jpg",
+            "../assets/img/Buzo adidas Terrex-atras.jpg",
+            "../assets/img/Buzo adidas Terrex-cerca.jpg"
+        ],
+        "nombre": "Buzo adidas Terrex",
+        "precio": 119.999,
+        "marca": "adidas",
+        "genero": "hombre",
+        "deporte": "moda",
+        "descripcion": "Perfecto para antes o después de disfrutar de los senderos de montaña, el Buzo adidas Terrex Hombre te sumerge en comodidad. Está confeccionado en algodón orgánico extremadamente suave e incorpora una capucha con cordón de ajuste que te ayuda a desconectarte del mundo. Sin importar dónde la uses, el logo adidas Terrex mantiene el espíritu de la naturaleza contigo. Esta prenda está hecha con materiales naturales y renovables como parte de nuestro compromiso con eliminar los recursos finitos de nuestros diseños y ayudar a ponerle fin a los residuos plásticos."
+    },
+    {
+        "id": 2,
+        "imagenes": [
+            "../assets/img/pantalon-de-futbol-adidas-tiro-23-club-negro-100020ic1585001-1.jpg",
+            "../assets/img/pantalon-de-futbol-adidas-tiro-23-club-negro-100020ic1585001-4.jpg",
+            "../assets/img/pantalon-de-futbol-adidas-tiro-23-club-negro-100020ic1585001-2.jpg"
+        ],
+        "nombre": "Pantalón adidas Tiro 23 futbol negro",
+        "precio": 50.399,
+        "marca": "adidas",
+        "genero": "hombre",
+        "deporte": "entrenamiento",
+        "descripcion": "Para los mejores equipos de fútbol, el campo de entrenamiento trae los premios más grandes al alcance. Con un corte ajustado y estilizado, este Pantalón Fútbol adidas Argentina Tiro Entrenamiento 24 Hombre forma parte de la línea de entrenamiento de la selección. El tejido absorbente AEROREADY y el refuerzo en la malla te mantienen cómodo en la cancha sin importar la intensidad del entrenamiento."
+    },
+    {
+        "id": 3,
+        "imagenes": [
+            "../assets/img/buzo-adidasxfarm.jpg",
+            "../assets/img/buzo-adidasxfarm-atras.jpg",
+            "../assets/img/buzo-adidasxfarm-lado.jpg"
+        ],
+        "nombre": "Buzo adidas X Farm Rio Mujer",
+        "precio": 93.499,
+        "marca": "adidas",
+        "genero": "mujer",
+        "deporte": "entrenamiento",
+        "descripcion": "Llevá tu estilo a otro nivel con el Buzo adidas X Farm Rio Mujer diseñado en colaboración con la casa de diseño brasileña FARM. Inspirados por los colores radiantes de los rayos del sol a través de un caleidoscópio, los llamativos estampados combinan formas y tonos para crear un look vibrante y lleno de energía. Creado para ofrecer una máxima comodidad, el corte holgado y los hombros caídos permiten movimientos fluidos, mientras que la capucha amplia ofrece una mayor cobertura cuando lo necesitás. Las llamativas 3 Tiras adornan el centro de la capucha y la espalda para un toque de diseño inesperado. Este producto está hecho con materiales renovables"
+    },
+    {
+        "id": 4,
+        "imagenes": [
+            "../assets/img/camperontopper.jpg",
+            "../assets/img/camperatoppercerca.jpg",
+            "../assets/img/Camperatoppermujeratras.jpg"
+        ],
+        "nombre": "Campera Topper Puffer Long Ii",
+        "precio": 91.999,
+        "marca": "topper",
+        "genero": "mujer",
+        "deporte": "moda",
+        "descripcion": "La Campera Outdoor Topper Bs Puffer Long II Mujer reúne todas las condiciones para que te sientas cómoda y protegida mientras explorás nuevos destinos. Con una tela de poliéster super resistente y un diseño por encima de la rodilla, proporciona confort y protección durante las bajas temperaturas y el mal tiempo. Además, esta novedosa prenda cuenta con una capucha desmontable y con bolsillos laterales para que lleves con vos tus pertenencias más importantes. Su diseño versátil es perfecto para que la uses en cualquiera de tus planes y vistas un look invernal espectacular cada vez que salís de tu casa."
+    },
+    {
+        "id": 5,
+        "imagenes": [
+            "../assets/img/short-de-argentina-adidas-oficial-negro-20112317-100020ip8405001-1.jpg",
+            "../assets/img/short-de-argentina-adidas-oficial-negro-20112317-100020ip8405001-2.jpg",
+            "../assets/img/short-de-argentina-adidas-oficial-negro-20112317-100020ip8405001-3.jpg"
+        ],
+        "nombre": "Short De Argentina Adidas Oficial Negro",
+        "precio": 73.999,
+        "marca": "adidas",
+        "genero": "hombre",
+        "deporte": "futbol",
+        "descripcion": "Para los mejores equipos de fútbol, el campo de entrenamiento trae los premios más grandes al alcance. Luciendo una versión termotransferida del famoso escudo de la Selección Argentina, estos Short Fútbol adidas Argentina Tiro 24 Hombre son parte de la ropa de entrenamiento del equipo. La tecnología de absorción AEROREADY y el tejido suave se combinan para brindarte comodidad dentro y fuera de la cancha."
+    },
+    {
+        "id": 6,
+        "imagenes": [
+            "../assets/img/camiseta-de-real-madrid-adidas-oficial-blanca-100020hr3796001-1.jpg",
+            "../assets/img/camiseta-de-real-madrid-adidas-oficial-blanca-5604032-100020iu5011001-2.jpg",
+            "../assets/img/camiseta-de-real-madrid-adidas-oficial-blanca-5604032-100020iu5011001-3.jpg"
+    ],
+        "nombre": "Camiseta de Real Madrid",
+        "precio": 98.999,
+        "marca": "adidas",
+        "genero": "hombre",
+        "deporte": "futbol",
+        "descripcion": "La camiseta titular del Real Madrid 23/24 celebra la tradición con un toque dorado. Con una base completamente blanca, este llamativo uniforme mantiene su poderosa línea de diseño, ofreciendo una camiseta estilizada llena de historia legendaria del fútbol. En homenaje a los uniformes más antiguos, los detalles dorados se reinventan y se destacan por su elegante marco azul marino. El sutil estampado integral actualiza el clásico color blanco, y el diseño especial para hinchas con un ajuste y una sensación ideal para usar cualquier día completa la silueta. Incorpora tecnología de absorción AEROREADY que te brinda comodidad en la cancha y en la tribuna, mientras que el escudo bordado y el ¡Hala Madrid! en el cuello le dan vida a la mentalidad ganadora del club. Logo ADIDAS bordado. Escudo REAL MADRID aplicado."
+    },
+    {
+        "id": 7,
+        "imagenes": [
+            "../assets/img/camiseta-de-messi-inter-miami-adidas-oficial-10-rosa-100020je9701001-2.jpg",
+            "../assets/img/camiseta-inter-de-miami-oficial-rosa-100020iu0190001-1.jpg",
+            "../assets/img/camiseta-inter-de-miami-oficial-rosa-100020iu0190001-4.jpg"
+        ],
+        "nombre": "CAMISETA DE MESSI INTER MIAMI ADIDAS OFICIAL 10 ROSA",
+        "precio": 129.999,
+        "marca": "adidas",
+        "genero": "hombre",
+        "deporte": "futbol",
+        "descripcion": "Cuando cae la noche, Miami se ilumina. Inspirada en el resplandeciente paseo marítimo de Magic City, esta Camiseta Inter Miami CF adidas titular 2024 Hombre encanta con detalles rosas y un gráfico ondulado. Creada para mantener cómodos a los aficionados, combina un tejido suave y AEROREADY que controla la humedad. En la parte posterior, el nombre de Messi y su famoso número evocan imágenes de un fútbol fascinante."
+    },
+    {
+        "id": 8,
+        "imagenes": [
+            "../assets/img/camiseta-de-messi-inter-miami-alternativa-10-negra-100020je9744001-1.jpg",
+            "../assets/img/camiseta-de-messi-inter-miami-alternativa-10-negra-100020je9744001-2.jpg",
+            "../assets/img/camiseta-de-messi-inter-miami-alternativa-10-negra-100020je9744001-3.jpg"
+        ],
+        "nombre": "CAMISETA DE MESSI INTER MIAMI ALTERNATIVA 10 NEGRA",
+        "precio": 129.999,
+        "marca": "adidas",
+        "genero": "hombre",
+        "deporte": "futbol",
+        "descripcion": "Cuando cae la noche, Miami se ilumina. Inspirada en el resplandeciente paseo marítimo de Magic City, esta Camiseta Inter Miami CF adidas Suplente 2024 Hombre encanta con detalles rosas y un gráfico ondulado. Creada para mantener cómodos a los aficionados, combina un tejido suave y AEROREADY que controla la humedad. En la parte posterior, el nombre de Messi y su famoso número evocan imágenes de un fútbol fascinante."
+    },
+    {
+        "id":9,
+        "imagenes": [
+            "../assets/img/camiseta-de-mila-puma-oficial-roja-640020774979001-1.jpg",
+            "../assets/img/camiseta-de-mila-puma-oficial-roja-640020774979001-2.jpg",
+            "../assets/img/camiseta-de-mila-puma-oficial-roja-640020774979001-4.jpg"
+        ],
+        "nombre": "CAMISETA DE MILAN PUMA OFICIAL ROJA",
+        "precio": 49.999,
+        "marca": "puma",
+        "genero": "hombre",
+        "deporte": "futbol",
+        "descripcion": "Te presentamos la Camiseta Milan Puma Titular 2024 Hombre, donde el rojo se combina con el negro y el fútbol con la familia. Con una trama inspirada en el genoma humano estampada en sus icónicas rayas rojas, esta camiseta celebra cómo el amor por el AC Milan se ha transmitido de generación en generación y de Milán al mundo, desde 1899 y para siempre."
+    },
+    
+    {
+        "id": 10,
+        "imagenes": [
+            "../assets/img/calzanike.jpg",
+            "../assets/img/calza-nike-de-running-fast-mujer-negra-510020fn3268010-2.jpg",
+            "../assets/img/calza-nike-de-running-fast-mujer-negra-510020fn3268010-3.jpg"
+        ],
+        "nombre": "Calza Nike Air Fast Black Ajustable ",
+        "precio": 57.129,
+        "marca": "nike",
+        "genero": "mujer",
+        "deporte": "entrenamiento",
+        "descripcion": "Llevá tus ejercicios a otro nivel con la Calza Entrenamiento Nike Fast Mujer. Confeccionada con materiales de alta calidad, cuenta con una cintura alta y elástica que se adapta fácilmente a tu cuerpo y ofrece un calce perfecto, sumado a un cordón en el interior para que lo ajustes como quieras y puedas desplazarte con total confianza en el gym. Además, la tecnología Dri-FIT ayuda a absorber el sudor y proporciona una buena transpirabilidad y una evaporación más rápida para que el calor no te impida hacer lo que más te gusta."
+    },
+    {
+        "id": 11,
+        "imagenes": [
+            "../assets/img/1251476-1200-978.jpg",
+            "../assets/img/camiseta-de-argentina-adidas-oficial-blanca-11018079-100020ip8400001-3.jpg",
+            "../assets/img/camiseta-de-argentina-adidas-oficial-blanca-11018079-100020ip8400001-4.jpg"
+        ],
+        "nombre": "Camiseta De Fútbol adidas Titular Afa 24",
+        "precio": 79.999,
+        "marca": "adidas",
+        "genero": "hombre",
+        "deporte": "futbol",
+        "descripcion": "Sentí el orgullo de Argentina con la Camiseta adidas Selección Argentina Local 2024 Hombre. AEROREADY, que absorbe el sudor, te ayuda a mantenerte seco durante los juegos y prácticas intensas, mientras que el llamativo escudo de Argentina garantiza que estés listo para mostrar tu apoyo dentro y fuera del campo. Ponete esta prenda de aficionado y formá parte del equipo."
+    },
+    {
+        "id": 12,
+        "imagenes": [
+            "../assets/img/camiseta-de-argentina-le-coq-sportif-homenaje-86-alternativa-azul-410020000222154-1.jpg",
+            "../assets/img/camiseta-de-argentina-le-coq-sportif-homenaje-86-alternativa-azul-410020000222154-4 (1).jpg",
+            "../assets/img/camiseta-de-argentina-le-coq-sportif-homenaje-86-alternativa-azul-410020000222154-4.jpg"
+        ],
+        "nombre": "Camiseta De Argentina Le Coq Sportif Homenaje 86 Alternativa Azul",
+        "precio": 79.999,
+        "marca": "le cop sportif",
+        "genero": "hombre",
+        "deporte": "futbol",
+        "descripcion": "Sentí el orgullo de Argentina con la Camiseta adidas Selección Argentina Local 2024 Hombre. AEROREADY, que absorbe el sudor, te ayuda a mantenerte seco durante los juegos y prácticas intensas, mientras que el llamativo escudo de Argentina garantiza que estés listo para mostrar tu apoyo dentro y fuera del campo. Ponete esta prenda de aficionado y formá parte del equipo."
+    },
+    {
+        "id": 13,
+        "imagenes": [
+            "../assets/img/conjunto-de-argentina-adidas-gris-100020iq2434001-1_2_.jpg",
+            "../assets/img/conjunto-de-argentina-adidas-gris-100020iq2434001-2_2_.jpg",
+            "../assets/img/conjunto-de-argentina-adidas-gris-100020iq2434001-3_2_.jpg"
+        ],
+        "nombre": "CONJUNTO DE ARGENTINA ADIDAS GRIS",
+        "precio": 211.095,
+        "marca": "adidas",
+        "genero": "hombre",
+        "deporte": "futbol",
+        "descripcion": "Todos somos uno cuando juega la selección. Los jugadores de la selección Argentina usan una versión de este pantalón de fútbol adidas para sus desplazamientos desde y hacia cada partido. Su tejido suave y resistente al desgaste hace más cómodos los viajes largos. Su diseño sencillo es perfecto para toda ocasión. Cintura elastizada con cordón de ajuste interno. Bolsillos laterales con cierre. Botamangas con cierres laterales. Logo ADIDAS y escudo AFA bordados."
+    },
+    {
+        "id": 14,
+        "imagenes": [
+            "../assets/img/medias-con-ca-a-pack-x-3-adidas-tres-tiras-100040ij8254001-1.jpg",
+            "../assets/img/medias-con-ca-a-pack-x-3-adidas-tres-tiras-100040ij8254001-1.jpg",
+            "../assets/img/medias-con-ca-a-pack-x-3-adidas-tres-tiras-100040ij8254001-2.jpg"
+        ],
+        "nombre": "MEDIAS CON CAÑA PACK X 3 ADIDAS TRES TIRAS",
+        "precio": 12.999,
+        "marca": "adidas",
+        "genero": "unisex",
+        "deporte": "accesorio",
+        "descripcion": "Las Medias Adidas tres tiras 2024 son la mejor elección para dejar atrás a la defensa rival con comodidad. Fabricadas para los pequeños hinchas más fieles, estas medias brindan soporte en los cambios de dirección repentinos, mientras que su tela altamente transpirable mantiene los pies frescos y secos en todo momento. El acolchado en las zonas estratégicas se encarga de la amortiguación para que los más chicos disfruten de cada partido como se lo merecen."
+    },
+    {
+        "id": 15,
+        "imagenes": [
+            "../assets/img/short-adidas-de-running-adizero-mujer-negro-100020in8707001-1.jpg",
+            "../assets/img/short-adidas-de-running-adizero-mujer-negro-100020in8707001-1.jpg",
+            "../assets/img/short-adidas-de-running-adizero-mujer-negro-100020in8707001-2.jpg"
+        ],
+        "nombre": "SHORT ADIDAS DE RUNNING ADIZERO MUJER NEGRO ",
+        "precio": 40.999,
+        "marca": "adidas",
+        "genero": "mujer",
+        "deporte": "entrenamiento",
+        "descripcion": "Al final de cada carrera, te conocerás un poco mejor. Encontrate a través de la carrera con el Short Running adidas Adizero Mujer, una prenda súper suave hecha para liberar tus movimientos. Salí al pavimento con un pantalón corto de running atemporal que coincida con tus mayores objetivos. Su tejido ligero eleva tu rendimiento, mientras que el AEROREADY te mantiene seco. Para garantizar la máxima comodidad, esta prenda imprescindible está diseñada con una malla interior y aberturas en los laterales, lo que le brinda una sensación fresca y relajada."
+    },
+    {
+        "id": 16,
+        "imagenes": [
+            "../assets/img/buzo-puma-essentials-relaxed-small-mujer-negro-640020678278001-1.jpg",
+            "../assets/img/buzo-puma-essentials-relaxed-small-mujer-negro-640020678278001-1.jpg",
+            "../assets/img/buzo-puma-essentials-relaxed-small-mujer-negro-640020678278001-2.jpg"
+        ],
+        "nombre": "BUZO PUMA ESSENTIALS+ RELAXED SMALL MUJER NEGRO",
+        "precio": 48.999,
+        "marca": "puma",
+        "genero": "mujer",
+        "deporte": "moda",
+        "descripcion": "Si buscabas una prenda versátil y cómoda para usar todo el día, entonces este Buzo Puma Essentials Blossom Script Mujer es tu mejor opción. Fabricado con materiales suaves y duraderos, siempre estará listo para acompañarte en cualquiera de tus actividades. Cuenta con una capucha que brinda protección contra el frío a la vez que añade un toque canchero a tu outfit diario. Además, su amplio y práctico bolsillo canguro es ideal para que almacenes tus llaves o celular de manera cómoda y segura. El logo de la marca en el pecho es sinónimo de calidad y estilo para que luzcas un look relajado y moderno en cada salida."
+    },
+    {
+        "id": 17,
+        "imagenes": [
+            "../assets/img/campera-puma-entrenamiento-woven-aop-negra-640020525066001-1.jpg",
+            "../assets/img/campera-puma-entrenamiento-woven-aop-negra-640020525066001-2.jpg",
+            "../assets/img/campera-puma-entrenamiento-woven-aop-negra-640020525066001-2.jpg"
+        ],
+        "nombre": "CAMPERA PUMA ENTRENAMIENTO WOVEN AOP NEGRA",
+        "precio": 119.999,
+        "marca": "puma",
+        "genero": "mujer",
+        "deporte": "entrenamiento",
+        "descripcion": "Entrená duro y mantente seco. La Campera Entrenamiento Puma Fit Hombre es ligera, equipada con la tecnología dryCELL que absorbe la transpiración para mantenerte cómodo durante los entrenamientos intensos. Las mangas raglán deportivas el cierre completo te dan libertad de movimiento para que puedas superar tus límites. Dos bolsillos delanteros llevan lo que necesitas para ir tras él. Fabricada en un 20% con materiales reciclados para que la sensación de bienestar al llevarla puesta, sea total."
+    },
+    {
+        "id": 18,
+        "imagenes": [
+            "../assets/img/campera-con-capucha-puma-essentials-negra-640020847926001-1.jpg",
+            "../assets/img/campera-con-capucha-puma-essentials-negra-640020847926001-2.jpg",
+            "../assets/img/campera-con-capucha-puma-essentials-negra-640020847926001-2.jpg"
+        ],
+        "nombre": "CAMPERA CON CAPUCHA PUMA ESSENTIALS NEGRA",
+        "precio": 56.799,
+        "marca": "puma",
+        "genero": "hombre",
+        "deporte": "moda",
+        "descripcion": "Descripción del Producto 18"
+    },
+    {
+        "id": 19,
+        "imagenes":[
+            "../assets/img/campera-con-capucha-nike-tech-fleece-negra-510020cu4489010-1.jpg",
+            "../assets/img/campera-con-capucha-nike-tech-fleece-negra-510020cu4489010-2.jpg",
+            "../assets/img/campera-con-capucha-nike-tech-fleece-negra-510020cu4489010-3.jpg"
+        ],
+        "nombre": "CAMPERA CON CAPUCHA NIKE TECH FLEECE NEGRA",
+        "precio": 191.999,
+        "marca": "nike",
+        "genero": "hombre",
+        "deporte": "moda",
+        "descripcion": "Si lo que buscás es estar abrigada, pero sin perder el estilo, la Campera adidas Varilite Jacket es tu mejor opción! Delicada y liviana cuenta con un relleno de plumas que incorpora un diseño plegable. Confeccionada en poliéster y plumón, cuenta con franjas de acolchado sin costuras conextbaffles que favorecen la protección contra el viento y la lluvia. Incluye bolsillos frontales con salida para el cable de los auriculares que te mantiene conectada adonde quieras ir."
+    },
+    {
+        "id": 20,
+        "imagenes": [
+            "../assets/img/gorra-nike-club-negra-44465799-511040fb5625011-1.jpg",
+            "..assets/img/gorra-nike-club-negra-511040fb5625010-2.jpg/",
+            "../assets/img/gorra-nike-club-negra-44465799-511040fb5625011-3.jpg"
+        ],
+        "nombre": "GORRA NIKE CLUB NEGRA",
+        "precio": 42.882,
+        "marca": "nike",
+        "genero": "unisex",
+        "deporte": "moda",
+        "descripcion": "La Gorra Nike Dri-fit Club Unisex es tu must para disfrutar de tus actividades al aire libre sin preocupaciones. Hecha con poliéster de alta calidad, que incluye tecnología Dri-Fit que repele la humedad y te mantiene fresco en todo momento. Mientras que, su diseño cuenta con una visera curva y un ajuste personalizado para elevar tu look de todos los días."
+    },
+    {
+        "id": 21,
+        "imagenes": [
+            "../assets/img/conjunto-topper-entrenamiento-gris-800020164688001-1.jpg",
+            "../assets/img/conjunto-topper-entrenamiento-gris-800020164688001-2.jpg",
+            "../assets/img/conjunto-topper-entrenamiento-gris-800020164688001-4.jpg"
+        ],
+        "nombre": "CONJUNTO TOPPER ENTRENAMIENTO GRIS",
+        "precio": 99.999,
+        "marca": "topper",
+        "genero": "hombre",
+        "deporte": "entrenamiento",
+        "descripcion": "El Conjunto Topper Best Hombre es el ideal para tus días mas intensos. La campera con bolsillos con cierre en pecho y laterales te permitirá guardar tus objetos esenciales para tenerlos a mano. El sistema de ajuste con velcro en los puños te brindara un ajuste correcto. El detalle del arte reflex en centro espalda para que puedas mantenerte en movimiento en todo horario. El pantalón con bolsillos laterales y cierre en la botamanga completan tu look para el próximo entrenamiento."
+    },
+    {
+        "id": 22,
+        "imagenes": [
+            "../assets/img/remera-topper-de-entrenamiento-trng-con-recorte-ii-petroleo-800020166433001-1.jpg",
+            "../assets/img/remera-topper-de-entrenamiento-trng-con-recorte-ii-petroleo-800020166433001-2.jpg",
+            "../assets/img/remera-topper-de-entrenamiento-trng-con-recorte-ii-petroleo-800020166433001-2.jpg"
+        ],
+        "nombre": "REMERA TOPPER DE ENTRENAMIENTO TRNG CON RECORTE II PETROLEO",
+        "precio": 125.299,
+        "marca": "topper",
+        "genero": "hombre",
+        "deporte": "entrenamiento",
+        "descripcion": "Para los ejercicios más exigentes, que no te falte nunca la Remera Entrenamiento Topper C Rec Ii Hombre. Con una tela de poliéster duradera y resistente, ofrece la comodidad y durabilidad que te merecés para que rindas al máximo en el gym. Además, su tejido transpirable mantiene tu cuerpo fresco, incluso durante las altas temperaturas. Con su diseño clásico y liso te será mucho más fácil combinarla y destacarte a donde vayas."
+    },
+    {
+        "id": 23,
+        "imagenes": [
+            "../assets/img/campera-de-abrigo-topper-gd-ni-o-ni-a-negra-12904577-800020165693001-1.jpg",
+            "../assets/img/campera-de-abrigo-topper-gd-ni-o-ni-a-negra-12904577-800020165693001-2.jpg",
+            "../assets/img/campera-de-abrigo-topper-gd-ni-o-ni-a-negra-12904577-800020165693001-2.jpg"
+        ],
+        "nombre": "CAMPERA DE ABRIGO TOPPER GD NIÑO NIÑA NEGRA",
+        "precio": 47.999,
+        "marca": "topper",
+        "genero": "niño",
+        "deporte": "moda",
+        "descripcion": "La Campera Urbana Topper Br Puffer II Niño combina estilo y funcionalidad. Confeccionada con materiales de calidad y relleno de plumón sintético, ofrece abrigo y confort en los días fríos. Su diseño moderno y detalles llamativos le dan un toque de estilo a su look urbano, manteniéndolo protegido y a la moda."
+    },
+    {
+        "id": 24,
+        "imagenes": [
+            "../assets/img/gorro-topper-unisex-negro-800040172715001-1.jpg",
+            "../assets/img/gorro-topper-unisex-negro-800040172715001-2.jpg",
+            "../assets/img/gorro-topper-unisex-negro-800040172715001-3.jpg"
+        ],
+        "nombre": "GORRO TOPPER UNISEX NEGRO",
+        "precio": 19.999,
+        "marca": "topper",
+        "genero": "unisex",
+        "deporte": "moda",
+        "descripcion": "La Gorra Urbana Topper Beanie Classic Unisex es el accesorio perfecto para tu estilo cotidiano. Esta gorra cuenta con un diseño versátil y moderno, ideal para complementar cualquier outfit. Su borde plegable te permite ajustarla a tu gusto, brindándote comodidad y un toque de personalidad. Además, su costura superior le otorga forma y rigidez, garantizando una apariencia impecable en todo momento. No pierdas la oportunidad de abrigarte y sentirte cómodo en cualquier ocasión con la Gorra Beanie."
+    },
+    {
+        "id": 25,
+        "imagenes": [
+            "../assets/img/buzo-medio-cierre-puma-fit-verde-640020524923080-1.jpg",
+            "../assets/img/buzo-medio-cierre-puma-fit-verde-640020524923080-2.jpg",
+            "../assets/img/buzo-medio-cierre-puma-fit-verde-640020524923080-2.jpg"
+        ],
+        "nombre": "BUZO MEDIO CIERRE PUMA FIT VERDE",
+        "precio": 96.499,
+        "marca": "nike",
+        "genero": "hombre",
+        "deporte": "entrenamiento",
+        "descripcion": "Combina ropa deportiva con estilo en tus días libres con el buzo con cierre de un cuarto para hombre de PUMA FIT. Esta prenda versátil combina tecnología activa con comodidad, con un escote con cierre de un cuarto para controlar fácilmente la temperatura durante los entrenamientos o las salidas informales. dryCELL: materiales altamente funcionales que alejan el sudor de la piel y ayudan a mantenerte seco y cómodo durante el ejercicio. Medio cierre. Logo PUMA estampado. Bolsillo canguro. Puños elastizados. Material reciclado."
+    },
+    {
+        "id": 26,
+        "imagenes": [
+            "../assets/img/camiseta-de-mila-puma-oficial-roja-640020774979001-1.jpg",
+            "../assets/img/camiseta-de-mila-puma-oficial-roja-640020774979001-2.jpg",
+            "../assets/img/camiseta-de-mila-puma-oficial-roja-640020774979001-4.jpg"
+        ],
+        "nombre": "CAMISETA DE MILAN PUMA OFICIAL ROJA",
+        "precioOriginal": 49.999,
+        "precioDescuento": 41.999,
+        "descuento": "Ahorra 15%",
+        "marca": "puma",
+        "genero": "hombre",
+        "deporte": "fútbol",
+        "descripcion": "Te presentamos la Camiseta Milan Puma Titular 2024 Hombre, donde el rojo se combina con el negro y el fútbol con la familia. Con una trama inspirada en el genoma humano estampada en sus icónicas rayas rojas, esta camiseta celebra cómo el amor por el AC Milan se ha transmitido de generación en generación y de Milán al mundo, desde 1899 y para siempre."
+    },
+    {
+        "id": 27,
+        "nombre": "Camiseta de Real Madrid",
+        "imagenes": [
+           "../assets/img/camiseta-de-real-madrid-adidas-oficial-blanca-100020hr3796001-1.jpg",
+            "../assets/img/camiseta-de-real-madrid-adidas-oficial-blanca-5604032-100020iu5011001-2.jpg",
+            "../assets/img/camiseta-de-real-madrid-adidas-oficial-blanca-5604032-100020iu5011001-3.jpg"
+        ],
+        "precioOriginal": 49.999,
+        "precioDescuento": 41.999,
+        "descuento": "Ahorra 15%",
+        "deporte": "fútbol",
+        "genero": "hombre",
+        "descripcion": "La camiseta titular del Real Madrid 23/24 celebra la tradición con un toque dorado. Con una base completamente blanca, este llamativo uniforme mantiene su poderosa línea de diseño, ofreciendo una camiseta estilizada llena de historia legendaria del fútbol. En homenaje a los uniformes más antiguos, los detalles dorados se reinventan y se destacan por su elegante marco azul marino. El sutil estampado integral actualiza el clásico color blanco, y el diseño especial para hinchas con un ajuste y una sensación ideal para usar cualquier día completa la silueta. Incorpora tecnología de absorción AEROREADY que te brinda comodidad en la cancha y en la tribuna, mientras que el escudo bordado y el ¡Hala Madrid! en el cuello le dan vida a la mentalidad ganadora del club. Logo ADIDAS bordado. Escudo REAL MADRID aplicado."
+    },
+    {
+        "id": 28,
+        "imagenes": [
+            "../assets/img/camiseta-de-messi-inter-miami-adidas-oficial-10-rosa-100020je9701001-2.jpg",
+            "../assets/img/camiseta-inter-de-miami-oficial-rosa-100020iu0190001-1.jpg",
+            "../assets/img/camiseta-inter-de-miami-oficial-rosa-100020iu0190001-4.jpg"
+        ],
+        "nombre": "CAMISETA DE MESSI INTER MIAMI ADIDAS OFICIAL 10 ROSA",
+        "precioOriginal": 129.999,
+        "precioDescuento": 110.499,
+        "descuento": "Ahorra 15%",
+        "marca": "adidas",
+        "genero": "hombre",
+        "deporte": "fútbol",
+        "descripcion": "Cuando cae la noche, Miami se ilumina. Inspirada en el resplandeciente paseo marítimo de Magic City, esta Camiseta Inter Miami CF adidas titular 2024 Hombre encanta con detalles rosas y un gráfico ondulado. Creada para mantener cómodos a los aficionados, combina un tejido suave y AEROREADY que controla la humedad. En la parte posterior, el nombre de Messi y su famoso número evocan imágenes de un fútbol fascinante."
+    },
+    {
+        "id": 29,
+        "imagenes": [
+            "../assets/img/camiseta-de-messi-inter-miami-alternativa-10-negra-100020je9744001-1.jpg",
+            "../assets/img/camiseta-de-messi-inter-miami-alternativa-10-negra-100020je9744001-2.jpg",
+            "../assets/img/camiseta-de-messi-inter-miami-alternativa-10-negra-100020je9744001-3.jpg"
+        ],
+        "nombre": "CAMISETA DE MESSI INTER MIAMI ALTERNATIVA 10 NEGRA",
+        "marca": "adidas",
+        "genero": "hombre",
+        "deporte": "fútbol",
+        "precioOriginal": 129.999,
+        "precioDescuento": 110.499,
+        "descuento": "Ahorra 15%",
+        "descripcion": "Cuando cae la noche, Miami se ilumina. Inspirada en el resplandeciente paseo marítimo de Magic City, esta Camiseta Inter Miami CF adidas Suplente 2024 Hombre encanta con detalles rosas y un gráfico ondulado. Creada para mantener cómodos a los aficionados, combina un tejido suave y AEROREADY que controla la humedad. En la parte posterior, el nombre de Messi y su famoso número evocan imágenes de un fútbol fascinante."
+    },
+    {
+        "id": 30,
+        "imagenes": [
+            "../assets/img/short-de-ba-o-puma-block-logo-lima-641020935490001-1.jpg",
+            "../assets/img/short-de-ba-o-puma-block-logo-lima-641020935490001-2.jpg",
+            "../assets/img/short-de-ba-o-puma-block-logo-lima-641020935490001-3.jpg"
+        ],
+        "nombre": "SHORT DE BAÑO PUMA BLOCK LOGO LIMA",
+        "precio": 31.299,
+        "marca": "puma",
+        "genero": "hombre",
+        "deporte": "natacion",
+        "descripcion": "Equipate con el mejor estilo veraniego con este short PUMA. Cintura elastizada con cordón de ajuste y suspensor internos. Bolsillos laterales. Logo PUMA estampado."
+    },
+    {
+        "id": 31,
+        "imagenes": [
+            "../assets/img/remera-de-los-pumas-le-coq-sportif-oficial-uar-blanca-41002ltn0224094-1.jpg",
+            "../assets/img/remera-de-los-pumas-le-coq-sportif-oficial-uar-blanca-41002ltn0224094-2.jpg",
+            "../assets/img/remera-de-los-pumas-le-coq-sportif-oficial-uar-blanca-41002ltn0224094-3.jpg"
+        ],
+        "nombre": "CAMISETA DE LOS PUMAS LE COQ SPORTIF OFICIAL UAR BLANCA",
+        "precio": 105.499,
+        "marca": "le cop sportif",
+        "genero": "hombre",
+        "deporte": "rugby",
+        "descripcion": "Hombre de Le Coq Sportif, el espíritu del rugby argentino te acompaña. Diseñada en poliéster para un ajuste perfecto al cuerpo, la Camiseta Le Coq Sportif Los Pumas Suplente Fan 2024 Hombre lleva el escudo del equipo y el logo del sponsor en el frente, mostrando tu apoyo con estilo en cada partido. Preparate para vivir la pasión del rugby en cada movimiento."
+    },
+
+    {
+        "id": 32,
+        "imagenes": [
+            "../assets/img/remera-de-los-pumas-le-coq-sportif-entrenamiento-uar-fucsia-90634620-41002ltn0224201-1.jpg",
+            "../assets/img/remera-de-los-pumas-le-coq-sportif-entrenamiento-uar-fucsia-90634620-41002ltn0224201-2.jpg",
+            "../assets/img/remera-de-los-pumas-le-coq-sportif-entrenamiento-uar-fucsia-90634620-41002ltn0224201-3.jpg"
+        ],
+        "nombre": "REMERA DE LOS PUMAS LE COQ SPORTIF ENTRENAMIENTO UAR FUCSIA",
+        "precio": 75.499,
+        "marca": "le cop sportif",
+        "genero": "hombre",
+        "deporte": "rugby",
+        "descripcion": "Hombre de Le Coq Sportif, el espíritu del rugby argentino te acompaña. Diseñada en poliéster para un ajuste perfecto al cuerpo, la Camiseta Le Coq Sportif Los Pumas Suplente Fan 2024 Hombre lleva el escudo del equipo y el logo del sponsor en el frente, mostrando tu apoyo con estilo en cada partido. Preparate para vivir la pasión del rugby en cada movimiento."
+    },
+    {
+        "id": 33,
+        "imagenes": [
+            "../assets/img/rivermujer.jpg",
+            "../assets/img/rivermujer.jpg",
+            "../assets/img/rivermujer.jpg"
+        ],
+        "nombre": "Camiseta De Fútbol adidas Titula River Plate Ws",
+        "precio": 63.499,
+        "marca": "adidas",
+        "genero": "mujer",
+        "deporte": "futbol",
+        "descripcion": "Reviví la historia del club de tu corazón con la Camiseta adidas River Plate Titular 23/24 mujer. Una prenda que vuelve a los inicios destacando elegancia con su diseño con la banda roja cruzada. Ahora además de sentir el orgullo por los colores blanco y rojo, lo sentirás por tu compromiso con el planeta, porque está hecha en un 100% con materiales reciclados. La tecnología AEROREADY de esta remera, te mantiene fresco y seco en todo momento. Un diseño cuello v y logo borado que te destaca dentro y fuera de la cancha"
+    },
+    {
+        "id": 34,
+        "imagenes": [
+            "../assets/img/remeraentrenamujer.jpg",
+            "../assets/img/remera-adidas-entrenamiento-essentials-big-logo-mujer-negra-100020it0544001-2.jpg",
+            "../assets/img/remera-adidas-entrenamiento-essentials-big-logo-mujer-negra-100020it0544001-2.jpg"
+        ],
+        "nombre": "Remera adidas Tiro 23 Entrenamiento Mujer",
+        "precio": 32.129,
+        "marca": "adidas",
+        "genero": "mujer",
+        "deporte": "entrenamiento",
+        "descripcion": "La Camiseta Entrenamiento adidas Tiro Mujer recupera el estilo clásico de adidas combinándolo con las últimas tecnologías. Confeccionada en materiales reciclados de alto rendimiento, es la compañera ideal para emplearla especialmente durante tus sesiones del gym. Esta prenda cuenta con tecnología AEROREADY que aporta transpirabilidad para mantener tu piel fresca y seca, incluso en épocas de altas temperaturas. Sus auténticas 3 rayas realzan tu look y demuestran la calidad que estás usando. Mantenete fiel al deporte y a la moda."
+    },
+    {
+        "id": 35,
+        "imagenes": [
+            "../assets/img/rinonerapumafrente.jpg",
+            "../assets/img/rimeranegralado.jpg",
+            "../assets/img/rinoraatras.jpg"
+        ],
+        "nombre": "Riñonera Puma Running Classic",
+        "precio": 34.149,
+        "marca": "puma",
+        "genero": "unisex",
+        "deporte": "accesorio",
+        "descripcion": "Para que nunca más salgas a correr sin las cosas que necesitás. Esta sencilla, pero elegante Riñonera Puma Pr Classic tiene un compartimento principal con cierre, un bolsillo con cierre en la parte superior y una correa de cincha para un ajuste perfecto. A eso le añadimos detalles reflectantes en la parte delantera y en la correa de cincha para que no pases desapercibido."
+    },
+    {
+        "id": 36,
+        "imagenes": [
+            "../assets/img/mediasnike.jpg",
+            "../assets/img/medias-ca_a-baja-nike-pack-x3-everyday-lightweight-blanca-510040sx7803100-1.jpg",
+            "../assets/img/medias-ca_a-baja-nike-pack-x3-everyday-lightweight-blanca-510040sx7803100-2.jpg"
+        ],
+        "nombre": "Medias Nike Everyday Lightweight",
+        "precio": 11.129,
+        "marca": "nike",
+        "genero": "unisex",
+        "deporte": "accesorio",
+        "descripcion":"Que nunca te falte un básico para usar con zapatos de caña media y alta; lleva las Medias Nike Everyday Lightweight y tene siempre a mano un pack de medias hasta el tobillo para que luzcas tus outfits con total comodidad gracias a su composición en algodón."
+    },
+    {
+        "id": 37,
+        "imagenes": [
+            "../assets/img/camiseta-de-river-adidas-oficial-blanca-67608930-100020ht3679001-1.jpg",
+            "../assets/img/camiseta-de-river-adidas-oficial-blanca-67608930-100020ht3679001-2.jpg",
+            "../assets/img/camiseta-de-river-adidas-oficial-blanca-67608930-100020ht3679001-3.jpg"
+        ],
+        "nombre": "Camiseta De River Adidas Oficial Blanca",
+        "precio": 69.499,
+        "marca": "adidas",
+        "genero": "hombre",
+        "deporte": "futbol",
+        "descripcion":"Reviví la historia del club de tu corazón con la Camiseta adidas River Plate Titular 23/24 Hombre. Una prenda que vuelve a los inicios destacando elegancia con su diseño con la banda roja cruzada. Ahora además de sentir el orgullo por los colores blanco y rojo, lo sentirás por tu compromiso con el planeta, porque está hecha en un 100% con materiales reciclados. La tecnología AEROREADY de esta remera, te mantiene fresco y seco en todo momento. Un diseño cuello v y logo borado que te destaca dentro y fuera de la cancha"
+    },
+    {
+        "id": 38,
+        "imagenes": [
+            "../assets/img/nikezapani.jpg",
+            "../assets/img/nikezapa2.jpg",
+            "../assets/img/nikezapa3.jpg"
+        ],
+        "nombre": "Zapatillas Nike Star Runner 4 Niño",
+        "precio": 95.999,
+        "marca": "nike",
+        "genero": "nino",
+        "deporte": "zapatillas",
+        "descripcion":"Los juegos y las carreras hasta el final de la calle y de regreso no pueden esperar mucho. Las Zapatillas Nike Star Runner 4 Niño fueron diseñadas para que tu hijo se ponga en marcha con mayor facilidad. La amortiguación suave de la entresuela brinda una sensación cómoda y elástica para que cada salto, brinco y zancada lleve a tu pequeño más cerca de la línea de llegada. La suela se aferra al pavimento, al pasto y a la gravilla para ofrecer mayor agarre, al mismo tiempo que la punta recubierta de goma refuerza la estructura para mayor durabilidad."
+    },
+    {
+        "id": 39,
+        "imagenes": [
+            "../assets/img/zapaadi1.jpg",
+            "../assets/img/zapaadi2.jpg",
+            "../assets/img/zapaadi3.jpg"
+        ],
+        "nombre": "Zapatillas adidas Advantage Unisex",
+        "precio": 42.599,
+        "marca": "adidas",
+        "genero": "unisex",
+        "deporte": "zapatillas",
+        "descripcion":"Las Zapatillas adidas Advantage Unisex son perfectas para lucir un estilo clásico y deportivo. Con su diseño atemporal y detalles icónicos de Adidas, te brindan comodidad y estilo en cada paso. Su parte superior de cuero sintético y suela de goma ofrecen durabilidad y tracción. Ya sea para el día a día o para un look casual, son una elección versátil y de calidad."
+    },
+    {
+        "id": 40,
+        "imagenes": [
+            "../assets/img/TO_29700-1.jpg",
+            "../assets/img/TO_29700-3.jpg",
+            "../assets/img/TO_29700-4.jpg"
+        ],
+        "nombre": "Zapatillas Topper Tie Break III",
+        "precio": 69.899,
+        "marca": "nike",
+        "genero": "unisex",
+        "deporte": "zapatillas",
+        "descripcion":"Para que dentro del court disfrutes de un calzado cómodo y seguro, llegaron las Zapatillas Topper Tie Break III."
+    },
+    {
+        "id": 41,
+        "imagenes": [
+            "../assets/img/zapatillas-umbro-glory-negra-75501u03l015182-1.jpg",
+            "../assets/img/zapatillas-umbro-glory-negra-75501u03l015182-2.jpg",
+            "../assets/img/zapatillas-umbro-glory-negra-75501u03l015182-8.jpg"
+        ],
+        "nombre": "Zapatillas Umbro Glory Negra",
+        "precio": 64.499,
+        "marca": "umbro",
+        "genero": "hombre",
+        "deporte": "zapatillas",
+        "descripcion":"De diseño tipo retro clásico. Confeccionado con materiales sintéticos de alta calidad. Logo aplicado en el lateral y suela de caucho. Ideal para el día a día."
+    },
+    {
+        "id": 42,
+        "imagenes": [
+            "../assets/img/zapatillas-kappa-logo-berlin-2-blanca-33439901-3950135146pw16d-1_1.jpg",
+            "../assets/img/zapatillas-kappa-logo-berlin-2-blanca-33439901-3950135146pw16d-2.jpg",
+            "../assets/img/zapatillas-kappa-logo-berlin-2-blanca-33439901-3950135146pw16d-8.jpg"
+        ],
+        "nombre": "Zapatillas Kappa Logo Berlin 2 Blanca",
+        "precio": 44.999,
+        "marca": "kappa",
+        "genero": "unisex",
+        "deporte": "zapatillas",
+        "descripcion":"Recorré las calles con confianza y robá miradas con las KAPPA Logo Berlin 2."
+    },
+    {
+        "id": 43,
+        "imagenes": [
+            "../assets/img/guantes-de-ciclismo-drb-risk-gris-24104dgamgu012m-1.jpg",
+            "../assets/img/guantes-de-ciclismo-drb-risk-gris-24104dgamgu012m-2.jpg",
+            "../assets/img/guantes-de-ciclismo-drb-risk-gris-24104dgamgu012m-5.jpg"
+        ],
+        "nombre": "Guantes De Ciclismo DRB Risk Gris",
+        "precio": 22.660,
+        "marca": "dribbling",
+        "genero": "unisex",
+        "deporte": "accesorio",
+        "descripcion":"Los Guantes Risk fueron diseñados para protegerte en tus entrenamientos de ciclismo."
+    },
+    {
+        "id": 44,
+        "imagenes": [
+            "../assets/img/zapatillas-adidas-tensaur-2-0-ni-a-rosa-90337723-100010gz3436001-1.jpg",
+            "../assets/img/zapatillas-adidas-tensaur-2-0-ni-a-rosa-90337723-100010gz3436001-6.jpg",
+            "../assets/img/zapatillas-adidas-tensaur-2-0-ni-a-rosa-90337723-100010gz3436001-8.jpg"
+        ],
+        "nombre": "Zapatillas Adidas Tensaur 2.0 Niña Rosa",
+        "precio": 55.999,
+        "marca": "adidas",
+        "genero": "nino",
+        "deporte": "zapatillas",
+        "descripcion":"Deja que tu hijo se abroche las correas de velcro de estas zapatillas ADIDAS y comience a jugar. La duradera suela de EVA les brinda todo lo que necesitan para perfeccionar sus habilidades para trepar a los árboles y correr por el césped"
+    },
+    {
+        "id": 45,
+        "imagenes": [
+            "../assets/img/calza-kappa-atus-mujer-fucsia-39502381623wal9-1.jpg",
+            "../assets/img/calza-kappa-atus-mujer-fucsia-39502381623wal9-2.jpg",
+            "../assets/img/calza-kappa-atus-mujer-fucsia-39502381623wal9-3.jpg"
+        ],
+        "nombre": "Calza Kappa Atus Mujer Fucsia",
+        "precio": 18.199,
+        "marca": "kappa",
+        "genero": "mujer",
+        "deporte": "moda",
+        "descripcion":"Los Guantes Risk fueron diseñados para protegerte en tus entrenamientos de ciclismo."
+    }, 
+    {
+        "id": 46,
+        "imagenes": [
+            "../assets/img/remera-de-racing-kappa-salida-2023-negra-39502371i59wf12-1.jpg",
+            "../assets/img/remera-de-racing-kappa-salida-2023-negra-39502371i59wf12-2.jpg",
+            "../assets/img/remera-de-racing-kappa-salida-2023-negra-39502371i59wf12-3.jpg"
+        ],
+        "nombre": "Remera De Racing Kappa Salida 2023 Negra",
+        "precio": 22.999,
+        "marca": "kappa",
+        "genero": "hombre",
+        "deporte": "futbol",
+        "descripcion":"Segui tu pasión por la Academia con KAPPA."
+    },
+    {
+        "id": 47,
+        "imagenes": [
+            "../assets/img/zapatillas-adidas-grand-court-base-00s-mujer-celeste-100010ih6192001-1.jpg",
+            "../assets/img/zapatillas-adidas-grand-court-base-00s-mujer-celeste-100010ih6192001-2.jpg",
+            "../assets/img/zapatillas-adidas-grand-court-base-00s-mujer-celeste-100010ih6192001-8.jpg"
+        ],
+        "nombre": "Zapatillas Adidas Grand Court Base 00S Mujer Celeste",
+        "precio": 92.669,
+        "marca": "adidas",
+        "genero": "unisex",
+        "deporte": "zapatillas",
+        "descripcion":"Estas zapatillas ADIDAS son la opción perfecta por su elegancia y funcionalidad."
+    }, {
+        "id": 48,
+        "imagenes": [
+            "../assets/img/zapatillas-adidas-grand-court-2-0-mujer-verde-100010if2840001-1.jpg",
+            "../assets/img/zapatillas-adidas-grand-court-2-0-mujer-verde-100010if2840001-6.jpg",
+            "../assets/img/zapatillas-adidas-grand-court-2-0-mujer-verde-100010if2840001-8.jpg"
+        ],
+        "nombre": "Zapatillas Adidas Grand Court 2.0 Mujer Verde",
+        "precio": 79.999,
+        "marca": "adidas",
+        "genero": "unisex",
+        "deporte": "zapatillas",
+        "descripcion":"Si solo podrías tener un par de zapatillas, estas serían las que elijarías. Estas zapatillas ADIDAS Grand Court con las clásicas 3 Tiras le inyectan estilo a tus looks."
+    },
+    {
+        "id": 49,
+        "imagenes": [
+            "../assets/img/zapatillas-adidas-tensaur-sport-2-0-ni-a-fucsia-100010gw6443001-1 bajo.jpg",
+            "../assets/img/zapatillas-adidas-tensaur-sport-2-0-ni-a-fucsia-100010gw6443001-8.jpg",
+            "../assets/img/zapatillas-adidas-tensaur-sport-2-0-ni-a-fucsia-100010gw6443001-1 bajo.jpg"
+        ],
+        "nombre": "Zapatillas Adidas Tensaur Sport 2.0 Niña Fucsia",
+        "precio": 52.669,
+        "marca": "adidas",
+        "genero": "nino",
+        "deporte": "zapatillas",
+        "descripcion":"Los niños que están aprendiendo nuevas habilidades necesitan un calzado que se mueva con ellos. Estas zapatillas ADIDAS clásicas tienen una suela de caucho que se siente suave al correr pero que no marca los pisos de madera."
+    }, {
+        "id": 50,
+        "imagenes": [
+            "../assets/img/camiseta-de-boca-adidas-oficial-azul-7605665-100020iu1232001-1.jpg",
+            "../assets/img/camiseta-de-boca-adidas-oficial-azul-7605665-100020iu1232001-2.jpg",
+            "../assets/img/camiseta-de-boca-adidas-oficial-azul-7605665-100020iu1232001-3.jpg"
+        ],
+        "nombre": "Camiseta De Boca Adidas Oficial Azul",
+        "precio": 111.999,
+        "marca": "adidas",
+        "genero": "hombre",
+        "deporte": "futbol",
+        "descripcion":"Esta nueva camiseta titular de Boca Juniors adidas une la pasión y el barrio con diferentes tonos que resaltan sus colores, el azul y oro."
+    },
+    {
+        "id": 51,
+        "imagenes": [
+            "../assets/img/camiseta-de-boca-adidas-arquero-celeste-100020jd4468001-1.jpg",
+            "../assets/img/camiseta-de-boca-adidas-arquero-celeste-100020jd4468001-2.jpg",
+            "../assets/img/camiseta-de-boca-adidas-arquero-celeste-100020jd4468001-3.jpg"
+        ],
+        "nombre": "Camiseta De Boca Adidas Arquero Celeste",
+        "precio": 111.669,
+        "marca": "adidas",
+        "genero": "hombre",
+        "deporte": "futbol",
+        "descripcion":"Esta camiseta fue diseñada para que el arquero pueda darlo todo en el campo de juego."
+    }, {
+        "id": 52,
+        "imagenes": [
+            "../assets/img/camiseta-de-river-adidas-alternativa-roja-70282029-100020ht3688001-1_1.jpg",
+            "../assets/img/camiseta-de-river-adidas-alternativa-roja-70282029-100020ht3688001-2_2.jpg",
+            "../assets/img/camiseta-de-river-adidas-alternativa-roja-70282029-100020ht3688001-3_1.jpg"
+        ],
+        "nombre": "Camiseta De River Adidas Alternativa Roja",
+        "precio": 94.999,
+        "marca": "adidas",
+        "genero": "hombre",
+        "deporte": "futbol",
+        "descripcion":"einterpretación del icónico diseño alternativo que recuerda los éxitos del Millonario en la decáda del ´90. Con tecnología de absorción AEROREADY que se encarga de mantener tu piel seca dentro y fuera de la cancha."
+    },
+    {
+        "id": 53,
+        "imagenes": [
+            "../assets/img/camiseta-de-boca-adidas-oficial-azul-7605665-100020iu1232001-1.jpg",
+            "../assets/img/camiseta-de-boca-adidas-oficial-mujer-azul-17757206-100020is7447001-2.jpg",
+            "../assets/img/camiseta-de-boca-adidas-oficial-mujer-azul-17757206-100020is7447001-2.jpg"
+        ],
+        "nombre": "Camiseta De Boca Adidas Oficial Mujer Azul",
+        "precio": 92.669,
+        "marca": "adidas",
+        "genero": "mujer",
+        "deporte": "futbol",
+        "descripcion":"Esta nueva camiseta titular de Boca Juniors ADIDAS une la pasión y el barrio con diferentes tonos que resaltan sus colores, el azul y oro.."
+    }, {
+        "id": 54,
+        "imagenes": [
+            "../assets/img/buzo-de-independiente-puma-ftblicons-rojo-640020606551002-1.jpg",
+            "../assets/img/buzo-de-independiente-puma-ftblicons-rojo-640020606551002-2.jpg",
+            "../assets/img/buzo-de-independiente-puma-ftblicons-rojo-640020606551002-4.jpg"
+        ],
+        "nombre": "Buzo De independiente Puma FTBLIcons Rojo",
+        "precio": 66.999,
+        "marca": "puma",
+        "genero": "unisex",
+        "deporte": "futbol",
+        "descripcion":"Llevá los colores de Independiente a donde sea que vayas y demostrá tu aliento al club en todo momento, en todos lados. Capucha con cordón de ajuste.."
+    },
+    {
+        "id": 55,
+        "imagenes": [
+            "../assets/img/camiseta-de-independiente-puma-oficial-roja-33986224-640020686313001-1.jpg",
+            "../assets/img/camiseta-de-independiente-puma-oficial-roja-33986224-640020686313001-2.jpg",
+            "../assets/img/camiseta-de-independiente-puma-oficial-roja-33986224-640020686313001-4.jpg"
+        ],
+        "nombre": "Camiseta De Independiente Puma Oficial Roja",
+        "precio": 92.660,
+        "marca": "puma",
+        "genero": "hombre",
+        "deporte": "futbol",
+        "descripcion":"Seguí tu pasión por el Rojo con la nueva equipacion de Independiente PUMA."
+    }, {
+        "id": 56,
+        "imagenes": [
+            "../assets/img/camiseta-de-independiente-puma-alternativa-blanca-85966434-640020685995002-1.jpg",
+            "../assets/img/camiseta-de-independiente-puma-alternativa-blanca-85966434-640020685995002-2.jpg",
+            "../assets/img/camiseta-de-independiente-puma-alternativa-blanca-85966434-640020685995002-3.jpg"
+        ],
+        "nombre": "Camiseta De Independiente Puma Alternativa Blanca",
+        "precio": 74.999,
+        "marca": "puma",
+        "genero": "hombre",
+        "deporte": "futbol",
+        "descripcion":"Seguí tu pasión por el Rojo con la nueva equipacion de Independiente PUMA."
+    },
+    {
+        "id": 57,
+        "imagenes": [
+            "../assets/img/antiparras-konna-kronty-fucsia-7420400ap500003-1.jpg",
+            "../assets/img/antiparras-konna-kronty-fucsia-7420400ap500003-2.jpg",
+            "../assets/img/antiparras-konna-kronty-fucsia-7420400ap500003-3.jpg"
+        ],
+        "nombre": "Antiparras De Natacion dribblig Fucsia",
+        "precio": 12.660,
+        "marca": "dribbling",
+        "genero": "unisex",
+        "deporte": "natacion",
+        "descripcion":"Tiras regulables y comodas"
+    }, {
+        "id": 58,
+        "imagenes": [
+            "../assets/img/malla-enteriza-konna-muky-ni_a-rosa-74202000805n003-1.jpg",
+            "../assets/img/malla-enteriza-konna-muky-ni_a-rosa-74202000805n003-2.jpg",
+            "../assets/img/malla-enteriza-konna-muky-ni_a-rosa-74202000805n003-3.jpg"
+        ],
+        "nombre": "Malla Enteriza dribbling Muky Niña Rosa",
+        "precio": 34.999,
+        "marca": "dribbling",
+        "genero": "nino",
+        "deporte": "natacion",
+        "descripcion":"Nadar puede ser más que un juego, acompañá a los más chicos en cada entrenamiento, con los mejores productos"
+    },
+    {
+        "id": 59,
+        "imagenes": [
+            "../assets/img/remera-de-los-puma-le-coq-sportif-prematch-verde-41002ltn0224104-1.jpg",
+            "../assets/img/remera-de-los-puma-le-coq-sportif-prematch-verde-41002ltn0224104-2.jpg",
+            "../assets/img/remera-de-los-puma-le-coq-sportif-prematch-verde-41002ltn0224104-3.jpg"
+        ],
+        "nombre": "Remera De Los Pumas Le Coq Sportif Prematch Verde",
+        "precio": 92.769,
+        "marca": "le cop sportif",
+        "genero": "hombre",
+        "deporte": "rugby",
+        "descripcion":"Seguí tu pasión incluso antes del partido con LE COQ SPORTIF."
+    }, {
+        "id": 60,
+        "imagenes": [
+            "../assets/img/short-de-los-puma-le-coq-sportif-alternativo-petroleo-41002ltn0224097-1.jpg",
+            "../assets/img/short-de-los-puma-le-coq-sportif-alternativo-petroleo-41002ltn0224097-2.jpg",
+            "../assets/img/short-de-los-puma-le-coq-sportif-alternativo-petroleo-41002ltn0224097-4.jpg"
+        ],
+        "nombre": "Short De Los Puma Le Coq Sportif Alternativo Petroleo",
+        "precio": 69.999,
+        "marca": "le cop sportif",
+        "genero": "hombre",
+        "deporte": "rugby",
+        "descripcion":"Seguí tu pasión incluso antes del partido con LE COQ SPORTIF"
+    },
+    {
+        "id": 61,
+        "imagenes": [
+            "../assets/img/short-de-los-pumas-le-coq-sportif-uar-blanco-41002ltn0224096-1.jpg",
+            "../assets/img/short-de-los-pumas-le-coq-sportif-uar-blanco-41002ltn0224096-2.jpg",
+            "../assets/img/short-de-los-pumas-le-coq-sportif-uar-blanco-41002ltn0224096-3.jpg"
+        ],
+        "nombre": "Short De Los Pumas Le Coq Sportif UAR Oficial Blanco",
+        "precio": 69.660,
+        "marca": "le cop sportif",
+        "genero": "hombre",
+        "deporte": "rugby",
+        "descripcion":"Seguí tu pasión incluso antes del partido con LE COQ SPORTIF"
+    }, {
+        "id": 62,
+        "imagenes": [
+            "../assets/img/malla-enteriza-adidas-3-tiras-mujer-negra-100020ib5986001-1.jpg",
+            "../assets/img/malla-enteriza-adidas-3-tiras-mujer-negra-100020ib5986001-2.jpg",
+            "../assets/img/malla-enteriza-adidas-3-tiras-mujer-negra-100020ib5986001-3.jpg"
+        ],
+        "nombre": "Malla Enteriza Adidas 3 Tiras Mujer Negra",
+        "precio": 94.999,
+        "marca": "adidas",
+        "genero": "mujer",
+        "deporte": "natacion",
+        "descripcion":"Este traje de natación de adidas es perfecto para nadar o simplemente relajarte en el agua."
+    },
+    {
+        "id": 63,
+        "imagenes": [
+            "../assets/img/malla-enteriza-adidas-rio-farm-mujer-multicolor-100020hy5563001-1.jpg",
+            "../assets/img/malla-enteriza-adidas-rio-farm-mujer-multicolor-100020hy5563001-2.jpg",
+            "../assets/img/malla-enteriza-adidas-rio-farm-mujer-multicolor-100020hy5563001-3.jpg"
+        ],
+        "nombre": "Malla Enteriza Adidas Rio Farm Mujer Multicolor",
+        "precio": 99.660,
+        "marca": "adidas",
+        "genero": "mujer",
+        "deporte": "natacion",
+        "descripcion":"Este traje de natación de adidas es perfecto para nadar o simplemente relajarte en el agua."
+    }, {
+        "id": 64,
+        "imagenes": [
+            "../assets/img/short-de-ba-o-adidas-x-farm-unisex-naranja-100020ht2156001-1.jpg",
+            "../assets/img/short-de-ba-o-adidas-x-farm-unisex-naranja-100020ht2156001-3.jpg",
+            "../assets/img/short-de-ba-o-adidas-x-farm-unisex-naranja-100020ht2156001-2.jpg"
+        ],
+        "nombre": "Short De Baño Adidas X Farm Unisex Naranjaa",
+        "precio": 74.999,
+        "marca": "adidas",
+        "genero": "unisex",
+        "deporte": "natacion",
+        "descripcion":"Inyectale un poco de sol a tu próximo viaje a la playa con estos shorts de natación ADIDAS x FARM."
+    },
+    {
+        "id": 65,
+        "imagenes": [
+            "../assets/img/top-adidas-entrenamiento-coreflow-100020hl8592001-2.jpg",
+            "../assets/img/top-adidas-entrenamiento-coreflow-mujer-rosa-100020hl8592001-1.jpg",
+            "../assets/img/top-adidas-entrenamiento-coreflow-mujer-rosa-100020hl8592001-2.jpg"
+        ],
+        "nombre": "Top Adidas Entrenamiento Coreflow Mujer Rosa",
+        "precio": 83.660,
+        "marca": "adidas",
+        "genero": "mujer",
+        "deporte": "entrenamiento",
+        "descripcion":"La tecnología Adisoft ultrasuave se adapta a tu silueta y te envuelve en comodidad y confianza en cada movimiento."
+    }, {
+        "id": 66,
+        "imagenes": [
+            "../assets/img/gorra-nike-club-negra-511040fb5625010-1.jpg",
+            "../assets/img/gorra-nike-club-negra-511040fb5625010-2.jpg",
+            "../assets/img/gorra-nike-club-negra-511040fb5625010-3.jpg"
+        ],
+        "nombre": "Gorra Nike Club Negra",
+        "precio": 41.999,
+        "marca": "nike",
+        "genero": "unisex",
+        "deporte": "entrenamiento",
+        "descripcion":"Ábranle las puertas a la gorra Club."
+    }
+
+
+]

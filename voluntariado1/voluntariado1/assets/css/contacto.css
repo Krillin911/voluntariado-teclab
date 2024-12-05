@@ -1,0 +1,260 @@
+.navbar {
+    background-color: white;
+    /* Cambia el fondo de la barra de navegación a blanco */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    /* Sombra sutil */
+    transition: background-color 0.3s ease;
+    /* Transición suave para el fondo */
+}
+
+.navbar a {
+    color: black;
+    /* Color del texto de los enlaces */
+    transition: color 0.3s ease;
+    /* Transición suave para el color del texto */
+}
+
+.navbar a:hover {
+    color: #007bff;
+    /* Color del texto al pasar el mouse */
+    background-color: rgba(0, 123, 255, 0.1);
+    /* Fondo ligero al hacer hover */
+    border-radius: 5px;
+    /* Bordes redondeados */
+}
+
+.navbar-toggler {
+    border-color: rgba(0, 0, 0, 0.1);
+    /* Color del borde del botón */
+}
+
+.navbar-toggler:hover {
+    background-color: rgba(0, 123, 255, 0.1);
+    /* Fondo al hacer hover */
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.3rem;
+    /* Cambia este valor según sea necesario */
+}
+
+/* Sección de contacto */
+#contact {
+    background-color: #f8f9fa;
+    padding: 80px 0;
+    text-align: center;
+}
+
+.contact-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.contact-info {
+    margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.contact-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 20px 30px;
+    padding: 20px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.contact-item:hover {
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    transform: translateY(-5px);
+}
+
+.contact-item i {
+    font-size: 32px;
+    color: #007bff;
+    margin-bottom: 10px;
+    transition: transform 0.3s ease;
+}
+
+.contact-item:hover i {
+    transform: scale(1.2);
+}
+
+.contact-item h3 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.contact-item p {
+    margin-bottom: 0;
+}
+
+.contact-form {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contact-form .form-group {
+    margin-bottom: 20px;
+    width: 100%;
+    max-width: 500px;
+}
+
+.contact-form .form-control {
+    border-radius: 5px;
+    border-color: #ced4da;
+    padding: 12px 15px;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.contact-form textarea.form-control {
+    height: 100px;
+}
+
+.contact-form .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    border-radius: 5px;
+    font-weight: 600;
+    padding: 12px 30px;
+    transition: background-color 0.3s ease, border-color 0.3s ease, transform 0.3s ease;
+}
+
+.contact-form .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+/*footer*/
+#whatsapp-button {
+    position: fixed;
+    /* Fija el botón en la pantalla */
+    bottom: 0;
+    /* Coloca el botón en la parte inferior */
+    left: 95%;
+    /* Centra el botón horizontalmente */
+    transform: translateX(-50%);
+    /* Ajusta el centro del botón */
+    z-index: 1000;
+    /* Asegura que esté por encima de otros elementos */
+    margin: 10px;
+    /* Espacio alrededor del botón */
+}
+
+.footer {
+    background: linear-gradient(to right, #1a1919, #686868);
+    color: #fff;
+    padding: 60px 0;
+}
+
+.footer-top {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    padding-bottom: 60px;
+}
+
+.footer-brand {
+    margin-bottom: 40px;
+}
+
+.footer-list {
+    margin-bottom: 40px;
+}
+
+.footer-list h4 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.footer-link {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.footer-contacto {
+    font-style: normal;
+}
+
+.footer-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.table-row {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.table-head,
+.table-data {
+    padding: 10px 0;
+    font-size: 16px;
+}
+
+.table-head {
+    font-weight: 600;
+}
+
+.Informativo-text {
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.contact-form {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.contact-input {
+    flex: 1 1 300px;
+    background-color: transparent;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    color: #fff;
+    font-size: 16px;
+    padding: 15px 20px;
+}
+
+.contact-input::placeholder {
+    color: #fff;
+}
+
+.btn.btn-primario {
+    background-color: #ff6b6b;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    padding: 15px 30px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btn.btn-primario:hover {
+    background-color: #ff4d4d;
+}
+
+.footer-bottom {
+    padding-top: 40px;
+    text-align: center;
+}
+
+.copyright {
+    font-size: 14px;
+}
+
+.copyright a {
+    color: #ff6b6b;
+    text-decoration: none;
+}

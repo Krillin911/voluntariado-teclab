@@ -1,0 +1,35 @@
+
+body {
+    background-color: #f8f9fa;
+}
+.container {
+    max-width: 900px;
+    margin-top: 50px;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+}
+h1 {
+    color: #343a40;
+}
+.btn-custom {
+    background-color: #007bff;
+    color: white;
+}
+.btn-custom:hover {
+    background-color: #0056b3;
+}
+
+.btn-regresar {
+    background-color: #b4adad; /* Color de fondo */
+    color: white; /* Color del texto */
+    padding: 10px 20px; /* Espaciado */
+    border: none; /* Sin borde */
+    border-radius: 5px; /* Bordes redondeados */
+    cursor: pointer; /* Cambia el cursor al pasar el mouse */
+    margin-left: 300px; /* Sangría a la izquierda */
+}
+.btn-regresar:hover {
+    background-color: #ff653f; /* Color de fondo al pasar el mouse */
+}

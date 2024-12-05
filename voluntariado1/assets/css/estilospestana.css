@@ -1,0 +1,74 @@
+
+
+/*Imagenes acomodadas*/
+
+.btn-add-to-cart:hover {
+    transform: translateY(-2px); /* Mueve el botón hacia arriba ligeramente */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Agrega una sombra suave */
+}
+.btn-add-to-cart i {
+    font-size: 16px; /* Cambia al tamaño de icono deseado */
+}
+.card .btn-add-to-cart {
+    position: absolute;
+    bottom: 16px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+.btn-add-to-cart i {
+    font-size: 16px; /* Cambia al tamaño de icono deseado */
+}
+.btn-add-to-cart {
+    background-color: #007bff; /* Cambia al color deseado */
+    color: #fff; /* Cambia al color de texto deseado */
+    border-color: #007bff; /* Cambia al color de borde deseado */
+}
+
+.btn-add-to-cart:hover {
+    background-color: #0056b3; /* Cambia al color de hover deseado */
+    color: #fff; /* Cambia al color de texto de hover deseado */
+    border-color: #0056b3; /* Cambia al color de borde de hover deseado */
+}
+
+.btn-regresar {
+    background-color: #b4adad; /* Color de fondo */
+    color: white; /* Color del texto */
+    padding: 10px 20px; /* Espaciado */
+    border: none; /* Sin borde */
+    border-radius: 5px; /* Bordes redondeados */
+    cursor: pointer; /* Cambia el cursor al pasar el mouse */
+    margin-left: 300px; /* Sangría a la izquierda */
+}
+.btn-regresar:hover {
+    background-color: #ff653f; /* Color de fondo al pasar el mouse */
+}
+/*pie de pagina*/
+#whatsapp-button {
+    position: fixed; /* Fija el botón en la pantalla */
+    bottom: 0; /* Coloca el botón en la parte inferior */
+    left: 95%; /* Centra el botón horizontalmente */
+    transform: translateX(-50%); /* Ajusta el centro del botón */
+    z-index: 1000; /* Asegura que esté por encima de otros elementos */
+    margin: 10px; /* Espacio alrededor del botón */
+}
+
+
+.footer {
+    
+    color: rgb(179, 10, 10);
+    padding: 20px;
+}
+
+.footer {
+    background: linear-gradient(to right, #1a1919, #686868);
+    color: #fff;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+

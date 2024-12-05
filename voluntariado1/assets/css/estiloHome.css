@@ -1,0 +1,144 @@
+/*Barra de navegacion*/
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.hero {
+    height: 60vh;
+    color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.navbar {
+    background-color: white; /* Cambia el fondo de la barra de navegación a blanco */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra sutil */
+    transition: background-color 0.3s ease; /* Transición suave para el fondo */
+}
+
+.navbar a {
+    color: black; /* Color del texto de los enlaces */
+    transition: color 0.3s ease; /* Transición suave para el color del texto */
+}
+
+.navbar a:hover {
+    color: #007bff; /* Color del texto al pasar el mouse */
+    background-color: rgba(0, 123, 255, 0.1); /* Fondo ligero al hacer hover */
+    border-radius: 5px; /* Bordes redondeados */
+}
+
+.navbar-toggler {
+    border-color: rgba(0, 0, 0, 0.1); /* Color del borde del botón */
+}
+
+.navbar-toggler:hover {
+    background-color: rgba(0, 123, 255, 0.1); /* Fondo al hacer hover */
+}
+
+.navbar-nav .nav-link {
+    font-size: 1.3rem; /* Cambia este valor según sea necesario */
+}
+body, html {
+    margin: 0; /* Elimina márgenes por defecto */
+    padding: 0; /* Elimina relleno por defecto */
+}
+.btn-custom {
+    font-family: 'Arial', sans-serif; /* Cambia la fuente a Arial */
+    background-color: #28a745; /* Color de fondo verde */
+    color: white; /* Color del texto */
+    border: none; /* Sin borde */
+    border-radius: 5px; /* Bordes redondeados */
+    padding: 10px 20px; /* Espaciado interno */
+    transition: background-color 0.3s ease; /* Transición suave */
+}
+strong{
+    color: #df2a2a;
+}
+ 
+/*Imagenes acomodadas*/
+
+.tarjeta-producto {
+    display: flex;
+    flex-direction: column;
+    height: 100%; /* posicion de las tarjetas */
+}
+
+
+.card {
+    border: 1px solid #ccc;
+    margin: 10px;
+}
+
+.tarjeta-producto {
+    transition: transform 0.2s;
+}
+
+.tarjeta-producto:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s;
+}
+
+.nombre-producto {
+    font-weight: bold;
+    color: #007bff; /* Color de Bootstrap */
+}
+
+.precio-producto {
+    color: #28a745; /* Verde para precios */
+}
+.imagen-container {
+    width: 100%; /* Asegura que el contenedor ocupe todo el ancho de la tarjeta */
+    overflow: hidden; /* Oculta cualquier parte de la imagen que sobresalga */
+}
+
+.producto-imagenes {
+    width: 100%; /* Asegura que la imagen ocupe todo el ancho del contenedor */
+    height: auto; /* Mantiene la proporción de la imagen */
+    object-fit: cover; /* Ajusta la imagen para cubrir el contenedor sin distorsionar */
+}
+
+
+.tarjeta {
+    transition: transform 0.3s ease;
+}
+
+.tarjeta:hover {
+    transform: scale(1.05); /* Aumenta el tamaño al pasar el cursor */
+}
+
+/*pie de pagina*/
+
+#whatsapp-button {
+    position: fixed; /* Fija el botón en la pantalla */
+    bottom: 0; /* Coloca el botón en la parte inferior */
+    left: 95%; /* Centra el botón horizontalmente */
+    transform: translateX(-50%); /* Ajusta el centro del botón */
+    z-index: 1000; /* Asegura que esté por encima de otros elementos */
+    margin: 10px; /* Espacio alrededor del botón */
+}
+.footer {
+    
+    color: rgb(179, 10, 10);
+    padding: 20px;
+}
+
+.footer {
+    background: linear-gradient(to right, #1a1919, #686868);
+    color: #fff;
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.footer a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+
+
+
+

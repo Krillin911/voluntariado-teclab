@@ -1,0 +1,118 @@
+
+body {
+    background-color: #f8f9fa;
+}
+.container {
+    max-width: 900px;
+    margin-top: 50px;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+}
+h1 {
+    color: #343a40;
+}
+.btn-custom {
+    background-color: #007bff;
+    color: white;
+}
+.btn-custom:hover {
+    background-color: #0056b3;
+}
+
+.btn-regresar {
+    background-color: #b4adad; /* Color de fondo */
+    color: white; /* Color del texto */
+    padding: 10px 20px; /* Espaciado */
+    border: none; /* Sin borde */
+    border-radius: 5px; /* Bordes redondeados */
+    cursor: pointer; /* Cambia el cursor al pasar el mouse */
+    margin-left: 300px; /* Sangría a la izquierda */
+}
+.btn-regresar:hover {
+    background-color: #ff653f; /* Color de fondo al pasar el mouse */
+}
+
+body {
+    background: linear-gradient(to right, #ffffff, #ffffff);
+    font-family: 'Arial', sans-serif;
+}
+
+.btn-regresar {
+    background-color: #ff7373;
+    color: white;
+    border: none;
+    margin: 20px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn-regresar:hover {
+    background-color: #b30000;
+}
+
+.container {
+    margin-top: 50px;
+    border-radius: 8px;
+    box-shadow: 0 10px 35px rgba(0, 0, 0, 0.123);
+    background: linear-gradient(to right, #ffffff, #f0f0f0);
+    padding: 30px;
+    transition: transform 0.3s;
+}
+
+.container:hover {
+    transform: scale(1.02);
+}
+
+h1 {
+    margin-bottom: 30px;
+    color: #3b3b3b;
+}
+
+.btn-custom {
+    background-color: #ff7373;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btn-custom:hover {
+    background-color: #882121;
+}
+
+.form-control {
+    border-radius: 5px;
+    transition: border 0.3s;
+}
+
+.form-control:focus {
+    border-color: #0a49be;
+    box-shadow: 0 0 5px rgba(40, 131, 167, 0.5);
+}
+
+.form-group label {
+    color: #a5a5a5;
+}
+
+.fade-in {
+    animation: fadeIn 0.5s ease-in;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.form-section {
+    margin-bottom: 30px;
+}
